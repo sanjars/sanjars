@@ -1,5 +1,5 @@
 # 👋 Sanjar Sapar!
-🚀 Cloud & DevOps Architect | Big Data / AI / ML Infra Engineer | ☁️ AWS, Azure & GCP Security Consultant | 📜 Project Manager | Wiki Wizard 
+🚀 Cloud & DevOps Architect | Big Data / AI / ML Infra Engineer | ☁️ AWS, Azure & GCP Security Consultant | 📜 Project Manager 
 
 💡 **About Me**  
 - 🎯 Founder of [Your Company Name]  
