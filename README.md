@@ -12,5 +12,5 @@
 - 💡 Published insights on cloud security in industry journals  
 
 📫 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjars)  
 [![Website](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=globe)](https://yourwebsite.com)  
