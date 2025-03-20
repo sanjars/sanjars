@@ -27,8 +27,8 @@ DevOps & Cloud Advocate. Cloud Astronomer. Linux Blacksmith. Experienced in crea
 
 💼 **Projects & Achievements**  
 - 🏆 Built a scalable AI-powered Agent for Ticketing System
-- 🏗️ Led a major cloud migration for a Fortune 100 company  
-- 💡 Published insights on cloud security in industry journals  
+- 🏗️ Led a major Cloud Migration for a Fortune 100 company  
+- 💡 Worked with Google to provide Insights & Expertise to their newly released products in GCP
 
 📫 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjars)  
