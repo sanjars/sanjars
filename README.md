@@ -4,7 +4,7 @@
 
 🚀 Cloud & DevOps Architect | Big Data / AI / ML Infra Engineer | ☁️ AWS, Azure, GCP & VMware Security Consultant | 📜 Project Manager 
 
-**DevOps & Solutions Architect** who helps/ed to transform DevOps, Security, IaC, and Cloud for **Fortune 100 companies**. Possesses a strong technical background, reinforced by **9 industry-recognized certifications**, and a track record of managing over **100 AWS accounts**. Adept at leading cross-functional teams and collaborating effectively with stakeholders to drive seamless integration of development and operations.** Co-authored over 120,000+ lines of infrastructure as code**, contributing to scalable and reliable systems. Implemented **Cost Optimization** strategies in different projects across different Cloud Providers.
+**DevOps & Solutions Architect** who helps/ed to transform DevOps, Security, IaC, and Cloud for **Fortune 100 companies**. Possesses a strong technical background, reinforced by **9 industry-recognized certifications**, and a track record of managing over **100 AWS accounts**. Adept at leading cross-functional teams and collaborating effectively with stakeholders to drive seamless integration of development and operations.**Co-authored over 120,000+ lines of infrastructure as code**, contributing to scalable and reliable systems. Implemented **Cost Optimization** strategies in different projects across different Cloud Providers.
 
 DevOps & Cloud Advocate. Cloud Astronomer. Linux Blacksmith. Experienced in creating different Architectural Solutions in AWS, Infrastructure as a Code, Containers, Container Orchestration, Configuration Management Tools, Automation, Auto Scaling / High Availability, CI/CD, Serverless.
 
